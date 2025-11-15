@@ -15,7 +15,7 @@ The goal is to help the company identify trends, compare year-over-year growth, 
 - Which Region is performing the best and which is the worst?
 - What is the YTD Sales by Shipping Type and its percentage contribution?
 
-- Dashboard Interaction <a href=" ">View Dashboard<a/>
+- Dashboard Interaction <a href="https://github.com/anushaks-05/ecommerce-dashboard/blob/main/Screenshot%20.png">View Dashboard<a/>
 
 
 ## Process
