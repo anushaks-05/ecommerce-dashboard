@@ -25,10 +25,7 @@ The goal is to help the company identify trends, compare year-over-year growth, 
 - Build the final dashboard and use the visuals to explain clear business insights.
 
 ## Dashboard
-
-![Uploading Screenshot .png…]()
-
-
+<img width="1160" height="651" alt="Screenshot " src="https://github.com/user-attachments/assets/2629e32b-abf7-4e29-98b2-016aab2963f0" />
 
 
 ## Project Insight
