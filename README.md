@@ -26,6 +26,7 @@ The goal is to help the company identify trends, compare year-over-year growth, 
 
 ## Dashboard
 
+![Uploading Screenshot .png…]()
 
 
 
