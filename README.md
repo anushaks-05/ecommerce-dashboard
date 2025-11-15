@@ -4,6 +4,15 @@ To create an interactive Sales Dashboard using Power BI that analyzes YTD perfor
 The goal is to help the company identify trends, compare year-over-year growth, and make data-driven decisions.
 ## Dataset used
 - <a href="https://github.com/anushaks-05/ecommerce-dashboard/blob/main/ecommerce_data_excel.xlsx">Dataset</a>
+## Problem Statement
+- Create a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity Sold, YTD Profit Margin
+- Find YoY growth for each KPI and show YTD sparkline for each
+- Find YTD Sales, PYTD Sales, YoY Sales growth for customer categories with trend icons
+- Find YTD Sales performance by each State
+- Top 5 and Bottom 5 Products by Sales
+- YTD Sales by Region (best and worst region)
+- YTD Sales by Shipping Type with percentage contribution
+  
 ## Questions (KPIs)
 - What are the total YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin?
 - What is the Year-on-Year (YoY) Growth for each KPI?
