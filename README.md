@@ -3,7 +3,7 @@
 To create an interactive Sales Dashboard using Power BI that analyzes YTD performance.
 The goal is to help the company identify trends, compare year-over-year growth, and make data-driven decisions.
 ## Dataset used
-- <a href="">Dataset</a>
+- <a href="https://github.com/anushaks-05/ecommerce-dashboard/blob/main/ecommerce_data_excel.xlsx">Dataset</a>
 ## Questions (KPIs)
 - What are the total YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin?
 - What is the Year-on-Year (YoY) Growth for each KPI?
