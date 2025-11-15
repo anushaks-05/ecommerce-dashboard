@@ -21,7 +21,7 @@ The goal is to help the company identify trends, compare year-over-year growth, 
 ## Process
 - Understand business requirements for YTD, YoY, category, region, product, and shipping analysis.
 - Prepare and organize the data by cleaning it, fixing columns, and building a proper data model with a date table.
-- Create important calculations and visuals like yearly comparisons, charts, maps, and KPI cards.
+- Create important calculations and visuals like yearly comparisons, charts, and KPI cards.
 - Build the final dashboard and use the visuals to explain clear business insights.
 
 ## Dashboard
@@ -35,5 +35,5 @@ The goal is to help the company identify trends, compare year-over-year growth, 
 - It provides useful trends and insights to help plan and improve future sales.
 
 ## Final Conclusion
-- The objective of this project is to create an interactive Sales Performance Dashboard that helps a US-based ecommerce company analyze its YTD sales, profit, customer behavior, and regional performance. It helps the company identify high and low-performing areas and compare current performance with the previous year.
+This project is to create an interactive Sales Performance Dashboard that helps a US-based ecommerce company analyze its YTD sales, profit, customer behavior, and regional performance. It helps the company identify high and low-performing areas and compare current performance with the previous year.
 Overall, the project supports better decision-making through accurate and data-driven insights.
